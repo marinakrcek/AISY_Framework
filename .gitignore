@@ -1,5 +1,12 @@
-.idea
+.idea/
 __pycache__/
 venv
 resources
 *.sh
+*.npz
+*.xml
+*.h5
+*.png
+*.jpg
+*.jpeg
+*.sqlite
